@@ -68,13 +68,15 @@ body {
 
 #login-form input[type="submit"] {
     background-color: #B2dFFC;
-    color: #fff;
+    color: #333;
     margin-top: 15px;
     border-radius: 5px;
     font-size: 13px;
     height: 30px;
     padding: 0;
     font-weight: bold;
+    cursor: pointer;
+    opacity: .7;
 }
 
 /*  SEPARADOR */
